@@ -1,0 +1,35 @@
+- titre: Accueil
+  menu:
+    - titre: Bienvenue
+      permalink: ./
+    - titre: Présentation
+      permalink: presentation/
+    - titre: Liens
+      permalink: liens/
+
+- titre: Thérapies
+  menu:
+      - titre: Réflexologie plantaire
+        permalink: reflexologie-plantaire/
+      - titre: Réflexologie intuitive
+        permalink: reflexologie-intuitive/
+      - titre: Massage amérindien aux pierres chaudes et fraîches
+        permalink: massage-aux-pierres-chaudes-et-fraiches/
+      - titre: Massage assis amma
+        permalink: massage-assis-amma/
+      - titre: Massage du dos breuss
+        permalink: massage-du-dos-breuss/
+      - titre: Hypnose thérapeutique
+        permalink: hypnose-therapeutique/
+
+- titre: Agenda
+  menu:
+      - titre: Cours de réflexologie 6 &amp; 7 mai 2017
+        permalink: cours-reflexologie-6-7-mai-2017/
+      - titre: Cours d’hypnose thérapeutique 8 avril &amp; 27 mai 2017
+        permalink: cours-autohypnose-8-avril-27-mai-2017/
+
+- titre: Contact
+  menu:
+      - titre: Contact
+        permalink: contact/
