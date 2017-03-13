@@ -1,5 +1,5 @@
 ---
-title: Cours d’autohypnose<br/>8 avril & 27 mai 2017
+title: Cours de relaxation<br />grâce à l’autohypnose<br /><em>Sortir du cadre</em><br />8 avril & 27 mai 2017
 permalink: cours-autohypnose-8-avril-27-mai-2017/
 layout: page
 published: true
