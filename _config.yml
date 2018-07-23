@@ -10,6 +10,6 @@ kramdown:
 
 exclude: [ "CNAME", "README.md", "Gemfile", "Gemfile.lock" ]
 
-gems:
+plugins:
   - jekyll-sitemap
 
