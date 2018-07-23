@@ -32,6 +32,7 @@ Au plaisir de vous rencontrer bientôt.
 {: style="text-align:right; margin-right:40px;" }
 [*Catherine Jörg*][1]
 
+❧
 
 [1]: /contact/
 [2]: /reflexologie-plantaire/
